@@ -15,6 +15,7 @@ excerpt: Jekyll Github Pages 搭建静态博客
 
 ###创建Pages
 
+
 GitHub Pages支持User/Organization Pages和Project Pages两种模式。可以通过User/Organization Pages建立主站，而通过Project Pages挂载二级应用页面。
 
 按照正常流程创建repository，名称命名为username.github.io。
@@ -26,6 +27,7 @@ GitHub Pages支持User/Organization Pages和Project Pages两种模式。可以�
 ---
 
 ###绑定域名
+
 在“Settings”页面，可以将自己的域名绑定到username.github.io。如无域名则忽略。
 
 ---
