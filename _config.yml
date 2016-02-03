@@ -11,7 +11,7 @@ description: Allen的博客，关注Map,Data,Python
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 github_username: ottll
-permalink: /:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title
 
 # Build settings
 markdown: kramdown
