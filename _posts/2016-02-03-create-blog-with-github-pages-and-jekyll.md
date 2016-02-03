@@ -137,7 +137,7 @@ Jekyll有很多现成的[模板](http://jekyllthemes.org/)，可以直接访问�
 
 ### 写文章
 
-按照_config.yml的格式permalink: /:categories/:year/:month/:day/:title，可以修改格式，创建markdown格式文件，就可以当初博客发布了。
+按照_config.yml的格式permalink: /:year/:month/:day/:title，注意，这里不设置categories选项，避免含中文时错误。可以修改格式，创建markdown格式文件，就可以当初博客发布了。
 
 ### 发布
 
