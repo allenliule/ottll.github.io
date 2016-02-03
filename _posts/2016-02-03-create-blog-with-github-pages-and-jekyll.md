@@ -15,7 +15,6 @@ excerpt: Jekyll Github Pages 搭建静态博客
 
 ###创建Pages
 
-
 GitHub Pages支持User/Organization Pages和Project Pages两种模式。可以通过User/Organization Pages建立主站，而通过Project Pages挂载二级应用页面。
 
 按照正常流程创建repository，名称命名为username.github.io。
@@ -56,7 +55,6 @@ DevKit是windows平台下编译和使用本地C/C++扩展包的工具。它就�
 	cd C:\DevKit
 	ruby dk.rb init
 	ruby dk.rb install
-
 
 ---
 
