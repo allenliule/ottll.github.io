@@ -143,6 +143,13 @@ Jekyll有很多现成的[模板](http://jekyllthemes.org/)，可以直接访问�
 
 发布到github上：通过命令提交或者客户端提交。
 
+    $ git clone https://github.com/USERNAME/PROJECT.git PROJECT
+    $ git checkout --orphan gh-pages
+    $ git rm -rf
+    $ git add
+    $ git commit -a -m "First pages commit"
+    $ git push origin gh-pages
+
 
 ---
 
