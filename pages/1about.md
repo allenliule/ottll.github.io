@@ -24,7 +24,7 @@ icon: glyphicon-heart
 ### 联系我
 
 * email：[allenliule@gmail.com](mailto:{{ site.email }})
-* 知乎：[allen](https://www.zhihu.com/people/aprilmay)
+* 知乎：[Allen的知乎](https://www.zhihu.com/people/aprilmay)
 
 
 ---
