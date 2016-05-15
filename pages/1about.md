@@ -36,8 +36,7 @@ icon: glyphicon-heart
 
 ---
 
-#### 友情链接
+### 友情链接
 
 [the5fire](http://www.the5fire.com/) \| [wklken](http://www.wklken.me/)
 
-Comment below to exchange link with me.  
